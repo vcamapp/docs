@@ -4,11 +4,15 @@
 
 * [ダウンロード](https://vcamapp.com/download)
 * [初期設定](setup/setup.md)
-* [初期設定](setup/avatar.md)
+* [アバターの読み込み](setup/avatar.md)
 
-## Usage
+## Tracking
 
-* [OBSと連携する](usage/OBS.md)
+* [トラッキング設定](tracking/tracking.md)
+
+## Integration
+
+* [OBSと連携する](integration/OBS.md)
 
 ## Other
 
