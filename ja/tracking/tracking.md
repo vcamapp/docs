@@ -1,5 +1,3 @@
-トラッキング
----
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/8188636/163707939-a23a39cf-5a91-4ba1-a8be-da056daec8a1.png">
 
