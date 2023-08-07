@@ -11,5 +11,3 @@ VCamの応援ありがとうございます！一つ一つの応援が開発の�
 - [GitHub Sponsors](https://github.com/sponsors/tattn)
 - [Patreon](https://www.patreon.com/tattn)
 - [PayPal](https://www.paypal.com/paypalme/tattn)
-- [amazon.co.jp / Wishlist](https://www.amazon.co.jp/hz/wishlist/ls/3SCV9RDEF2ZWJ)
-
