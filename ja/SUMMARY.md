@@ -1,22 +1,23 @@
 # 目次
 
-## 準備
+## Get Started
 
 * [ダウンロード](https://vcamapp.com/download)
 * [初期設定](setup/setup.md)
-* [初期設定](setup/uninstall.md)
+* [初期設定](setup/avatar.md)
 
-## 使い方
+## Usage
 
-* [OBSと連携する](howtouse/OBS.md)
+* [OBSと連携する](usage/OBS.md)
 
-## その他
+## Other
 
 * [よくある質問](other/faq.md)
 * [不具合情報](other/issue.md)
 * [VCamを応援する](other/tip.md)
+* [アンインストール](setup/uninstall.md)
 
-## 関連
+## Related
 
  * [VCam](https://vcamapp.com)
  * [FANBOX](https://tattn.fanbox.cc/posts/3541601)
