@@ -5,8 +5,8 @@
 ## Get Started
 
 * [ダウンロード](https://vcamapp.com/download)
-* [初期設定](setup/setup.md)
-* [アバターの読み込み](setup/avatar.md)
+* [初期設定](get-started/setup.md)
+* [アバターの読み込み](get-started/avatar.md)
 
 ## Tracking
 
@@ -14,14 +14,14 @@
 
 ## Integration
 
-* [OBSと連携する](integration/OBS.md)
+* [OBSと連携する](integration/obs.md)
 
 ## Other
 
 * [よくある質問](other/faq.md)
 * [不具合情報](other/issue.md)
 * [VCamを応援する](other/tip.md)
-* [アンインストール](setup/uninstall.md)
+* [アンインストール](other/uninstall.md)
 
 ## Related
 
