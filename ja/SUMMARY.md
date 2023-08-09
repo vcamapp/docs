@@ -1,4 +1,6 @@
-# 目次
+# Table of contents
+
+* [VCam](README.md)
 
 ## Get Started
 
@@ -23,9 +25,8 @@
 
 ## Related
 
- * [VCam](https://vcamapp.com)
- * [FANBOX](https://tattn.fanbox.cc/posts/3541601)
- * [Patreon](https://www.patreon.com/posts/64958026)
- * [GitHub](https://github.com/vcamapp/app)
- * [X / Twitter](https://twitter.com/vcamapp)
-
+* [VCam](https://vcamapp.com)
+* [FANBOX](https://tattn.fanbox.cc/posts/3541601)
+* [Patreon](https://www.patreon.com/posts/64958026)
+* [GitHub](https://github.com/vcamapp/app)
+* [X / Twitter](https://twitter.com/vcamapp)
