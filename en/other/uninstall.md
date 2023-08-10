@@ -1,6 +1,8 @@
-1. Open the VCam app and click on "Uninstall Plugin" under the "VCam" menu.
+# Uninstall
 
-<img width="551" alt="setup" src="https://user-images.githubusercontent.com/8188636/153762324-dfb814f8-00e5-4508-95c6-726cf852619f.png">
+1. Open the VCam app and click on "Uninstall Virtual Camera Plugin" under the "VCam" menu.
+
+![image](https://github.com/vcamapp/docs/assets/8188636/7e447472-5fbc-4385-a318-8c6fb0c347e6)
 
 2. Exit the app and delete the VCam.app.
 

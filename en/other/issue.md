@@ -1,4 +1,4 @@
-# Issue Information
+# Bug Reports
 
 ### Issue Information
 
@@ -18,13 +18,14 @@ If you find an issue that isn't listed below, I'd appreciate it if you could con
   * **Solution:** Reduce the camera's FPS or screen FPS in settings. (It's possible that the tracking or screen update processing isn't keeping up.)
 
 <details>
+
 <summary>Past Issues</summary>
 
-### Version 0.2.1
+#### Version 0.2.1
 
 * The app crashes on devices without a built-in camera, like the Mac mini.
 
-### Version 0.1.2 - 0.2.0
+#### Version 0.1.2 - 0.2.0
 
 * The screen goes blank when resizing the window.
   * **Solution:** Repeated resizing might display the screen. Until it's fixed, please use it at that screen size.
@@ -33,7 +34,7 @@ If you find an issue that isn't listed below, I'd appreciate it if you could con
 * Camera tracking might occasionally not work.
   * **Solution:** Turn off the camera use in settings, then turn it back on.
 
-### Version 0.1.0 - 0.1.1
+#### Version 0.1.0 - 0.1.1
 
 * The app might occasionally freeze, or crash upon closing.
 * The video might freeze when invoking the virtual camera in browser functions like Google Meet.

@@ -1,8 +1,8 @@
-# Loading Avatars
+# Loading Avatar
 
 From the menu, select "File" to load a model. Currently, it supports [VRM files](https://vrm.dev/) available locally or models from [VRoid Hub](https://hub.vroid.com/).
 
-<figure><img src="../ja/../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/vcamapp/docs/assets/8188636/c81981a9-d26d-4ed9-bb07-0c12fe1298ba" alt=""><figcaption></figcaption></figure>
 
 You can also drag & drop the model file to load it.
 

@@ -10,5 +10,3 @@ If it doesn't display, please refer to the [FAQ](../other/faq.md) for troublesho
 ## Reinstalling the Plugin
 
 If the plugin installation fails or the virtual camera does not function correctly, click on "Initial Setup" in the menu and reposition the plugin.
-
-<figure><img src="../ja/../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
