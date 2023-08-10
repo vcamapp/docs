@@ -12,9 +12,15 @@
 
 * [トラッキング設定](tracking/tracking.md)
 
+## Virtual Camera
+
+* [仮想カメラ設定](virtualcamera/virtualcamera.md)
+
 ## Integration
 
 * [OBSと連携する](integration/obs.md)
+* [mocopiと連携する](integration/mocopi.md)
+* [iPhoneトラッキングアプリと連携する](integration/iostrackingapp.md)
 
 ## Other
 

@@ -41,7 +41,7 @@ VCamの背景選択から背景色を選択します。
 
 <figure><img src="../.gitbook/assets/image (12).png" alt="" width="120"><figcaption></figcaption></figure>
 
-## 映像デバイスからとしてVCamを利用する
+## 映像デバイスとしてVCamを利用する
 
 1. ソースの追加ボタンから「映像キャプチャデバイス」を選択し、新規作成します。
 
