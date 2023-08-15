@@ -8,6 +8,10 @@
 * [初期設定](get-started/setup.md)
 * [アバターの読み込み](get-started/avatar.md)
 
+## Setting
+
+* [一般設定](setting/general.md)
+
 ## Tracking
 
 * [トラッキング設定](tracking/tracking.md)

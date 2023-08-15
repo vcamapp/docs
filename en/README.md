@@ -4,4 +4,4 @@ VCam is an application for macOS that displays avatars using a virtual camera. Y
 
 [VCam Official Website](https://vcamapp.com/en)
 
-[VCam PV (en subs)](https://youtu.be/G0wMHRL8dh4)
+{% embed url="https://youtu.be/5gm7-L174zc" %}

@@ -8,6 +8,10 @@
 * [Initial Setup](get-started/setup.md)
 * [Loading Avatar](get-started/avatar.md)
 
+## Setting
+
+* [General](setting/general.md)
+
 ## Tracking
 
 * [Tracking Settings](tracking/tracking.md)
