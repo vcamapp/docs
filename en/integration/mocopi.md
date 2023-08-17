@@ -22,6 +22,9 @@ https://twitter.com/vcamapp/status/1689123753836572672
 
 ![image](https://github.com/vcamapp/docs/assets/8188636/6360d975-1ca2-4d80-907b-014b1ae217ee)
 
+If the IP address does not appear, please refer to the following website or similar resources to check your Mac's IP address:  
+https://www.wikihow.com/Find-Your-IP-Address-on-a-Mac."
+
 5. When you start motion capture in mocopi, it will reflect in VCam 🎉
 
 ## Tips / Usage Techniques

@@ -22,6 +22,9 @@ Sonyのモーションキャプチャー「mocopi」との連携をサポート�
 
 ![mocopi](https://github.com/vcamapp/docs/assets/8188636/6360d975-1ca2-4d80-907b-014b1ae217ee)
 
+もし、IPアドレスが表示されない場合は、下記のサイトなどを参考にIPアドレスを確認してください。  
+https://www.iodata.jp/support/qanda/answer/s17702.htm
+
 5. mocopiでモーションキャプチャーを開始すると、VCamに反映されます 🎉
 
 ## Tips / 活用テクニック
