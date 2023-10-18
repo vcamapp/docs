@@ -12,9 +12,9 @@ https://twitter.com/vcamapp/status/1689123753836572672
 
 2. From the top-right menu, select "Settings" → "PC Connection Settings".
 
-!\[image]\(https://github.com/vcamapp/docs/assets/8188636/e305540d-4134-4b62-9e8f-f6730521037e)
+<figure><img src="https://github.com/vcamapp/docs/assets/8188636/e305540d-4134-4b62-9e8f-f6730521037e" alt=""><figcaption></figcaption></figure>
 
-![image](https://github.com/vcamapp/docs/assets/8188636/f0ed4c64-4aac-4a2a-aa43-b0d12d45b827)
+![](https://github.com/vcamapp/docs/assets/8188636/f0ed4c64-4aac-4a2a-aa43-b0d12d45b827)
 
 3. Open the VCam app, click the ⚙️ button, and enable mocopi from the "Integration" tab.\
    ![image](https://github.com/vcamapp/docs/assets/8188636/6856dc9f-2b36-445f-a17d-da7b088344d3)
@@ -22,10 +22,10 @@ https://twitter.com/vcamapp/status/1689123753836572672
 
 ![image](https://github.com/vcamapp/docs/assets/8188636/6360d975-1ca2-4d80-907b-014b1ae217ee)
 
-If the IP address does not appear, please refer to the following website or similar resources to check your Mac's IP address:  
+If the IP address does not appear, please refer to the following website or similar resources to check your Mac's IP address:\
 https://www.wikihow.com/Find-Your-IP-Address-on-a-Mac."
 
-5. When you start motion capture in mocopi, it will reflect in VCam 🎉
+5. When you start motion capture in mocopi, it will be mirrored in VCam 🎉
 
 ## Tips / Usage Techniques
 
@@ -43,7 +43,7 @@ The display position in mocopi's tracking might be offset. Tap the button below 
 
 Ensure your iPhone and Mac are connected to the same WiFi. Check if port "12351" is not blocked by security software.
 
-You can check the operation without mocopi using [BVH Sender](https://www.sony.net/Products/mocopi-dev/jp/downloads/DownloadInfo.html#BVH\_Sender) (please specify the IP address as 127.0.0.1). If the motion from this app reflects in VCam, there might be an issue with the network settings. Please check again.
+You can check the operation without mocopi using [BVH Sender](https://www.sony.net/Products/mocopi-dev/jp/downloads/DownloadInfo.html#BVH\_Sender) (please specify the IP address as 127.0.0.1). If the motion from this app is not mirrored in VCam, there might be an issue with the network settings. Please check again.
 
 ### Want to disconnect from mocopi
 
@@ -53,4 +53,4 @@ Uncheck "Enable mocopi" from the Integration tab in the settings. Then select th
 
 ### Cannot move forward or backward in mocopi
 
-Currently, only left and right movements are reflected. Please wait for a future update for forward and backward movements.
+Currently, only left and right movements are supported. Please wait for a future update for forward and backward movements.
