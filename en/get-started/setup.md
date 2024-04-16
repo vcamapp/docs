@@ -1,5 +1,9 @@
 # Initial Setup
 
+{% hint style="info" %}
+VCam must be installed in the "Applications" folder.
+{% endhint %}
+
 1. Open the app.
 2. If prompted for microphone or network permissions, grant them. These functions are essential for avatar control and the operation of the virtual camera.
 3. If alerted to install a plugin, proceed with the installation of the plugin.

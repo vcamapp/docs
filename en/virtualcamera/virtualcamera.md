@@ -16,6 +16,7 @@ After installation or uninstallation, you need to click 'Allow' in the 'Privacy 
 
 {% hint style="info" %}
 For the current macOS, there may be times when you need to restart your Mac after installing or uninstalling plugins. If it's not working properly, please restart your Mac.
+And, VCam must be installed in the "Applications" folder.
 {% endhint %}
 
 ## How to Use the Virtual Camera
