@@ -14,9 +14,13 @@ After installation or uninstallation, you need to click 'Allow' in the 'Privacy 
 
 <figure><img src="https://github.com/vcamapp/app/assets/8188636/89b38256-105c-4a40-8414-cad5b7a687f1" alt="" width="375"><figcaption></figcaption></figure>
 
+In macOS 15 or later, the CameraExtension must be enabled in macOS's Settings under General > Login Items & Extensions > Camera Extensions' info icon > VCam.app.\
+
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
-For the current macOS, there may be times when you need to restart your Mac after installing or uninstalling plugins. If it's not working properly, please restart your Mac.
-And, VCam must be installed in the "Applications" folder.
+For the current macOS, there may be times when you need to restart your Mac after installing or uninstalling plugins. If it's not working properly, please restart your Mac. And, VCam must be installed in the "Applications" folder.
 {% endhint %}
 
 ## How to Use the Virtual Camera
@@ -26,8 +30,6 @@ In the camera list of the application that uses a camera, "VCam - CameraExtensio
 ![zoom](https://github.com/vcamapp/docs/assets/8188636/288b4213-3320-4b36-b58a-ecc19c83eef3)
 
 When you select "VCam - CameraExtension", the virtual camera displays the VCam's screen.
-
-
 
 <details>
 
@@ -46,7 +48,7 @@ Also, Apple has announced that "Virtual Camera (DAL)" will no longer be supporte
 
 [Apple's Announcement](https://developer.apple.com/videos/play/wwdc2022/10022/)
 
-## Virtual Camera (DAL) Setup
+### Virtual Camera (DAL) Setup
 
 Follow the alert that appears upon the first launch to install.
 
