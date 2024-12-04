@@ -2,7 +2,7 @@
 
 メニューの「ファイル」からモデルを読み込めます。現在はローカルにある [VRMファイル](https://vrm.dev/) または [VRoid Hub](https://hub.vroid.com/) のモデルに対応しています。
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 モデルファイルをドラッグ&ドロップして、読み込むこともできます。
 

@@ -4,8 +4,6 @@ VCamには仮想カメラと呼ばれるカメラ機能があります。
 
 これを利用することで、ZoomやGoogle Meetなどのビデオ会議アプリなどでも、VCamをカメラとして認識させることができます。
 
-
-
 ## 仮想カメラの設定
 
 VCamの設定画面の「仮想カメラ」で動作状況の確認や仮想カメラのインストールやアンインストールができます。
@@ -16,12 +14,13 @@ VCamの設定画面の「仮想カメラ」で動作状況の確認や仮想カ�
 
 ![Macの設定](https://github.com/vcamapp/app/assets/8188636/65b3804d-7108-4e1d-9ff7-dd02ff105a38)
 
+macOS 15以降では、Macの設定の「一般」→「カメラ機能拡張」のiマーク→VCam.appのCameraExtensionを有効にする必要があります。
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
-現在のmacOSではプラグインのインストールやアンインストール時にMacの再起動が必要になる場合があります。正常に動作しない場合などはMacを再起動してください。
-また、VCamが「アプリケーション」フォルダにインストールされている必要があります。
+現在のmacOSではプラグインのインストールやアンインストール時にMacの再起動が必要になる場合があります。正常に動作しない場合などはMacを再起動してください。 また、VCamが「アプリケーション」フォルダにインストールされている必要があります。
 {% endhint %}
-
-
 
 ## 仮想カメラの使い方
 
@@ -30,8 +29,6 @@ VCamの設定画面の「仮想カメラ」で動作状況の確認や仮想カ�
 ![zoom](https://github.com/vcamapp/docs/assets/8188636/288b4213-3320-4b36-b58a-ecc19c83eef3)
 
 「VCam - CameraExtension」を選ぶと、VCamの映像を表示できます。
-
-
 
 <details>
 
@@ -50,7 +47,7 @@ VCamの設定画面の「仮想カメラ」で動作状況の確認や仮想カ�
 
 https://developer.apple.com/videos/play/wwdc2022/10022/
 
-## 仮想カメラ (DAL)の設定
+### 仮想カメラ (DAL)の設定
 
 初回起動時に表示されるアラートに従ってインストールしてください。
 

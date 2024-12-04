@@ -15,4 +15,4 @@ VCamは「アプリケーション」フォルダにインストールする必�
 
 プラグインのインストールに失敗した場合や仮想カメラが正しく動作しない場合は、メニューにある「初期設定」をクリックし、プラグインを再配置します。
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>

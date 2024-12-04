@@ -4,8 +4,7 @@ description: Mac版のOBSと連携して、VCamの映像をOBSで表示するこ
 
 # OBSと連携する
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## VCam OBS Pluginを使う (おすすめ)
 
