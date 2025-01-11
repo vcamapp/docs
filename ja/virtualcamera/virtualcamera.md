@@ -14,7 +14,7 @@ VCamの設定画面の「仮想カメラ」で動作状況の確認や仮想カ�
 
 ![Macの設定](https://github.com/vcamapp/app/assets/8188636/65b3804d-7108-4e1d-9ff7-dd02ff105a38)
 
-macOS 15以降では、Macの設定の「一般」→「カメラ機能拡張」のiマーク→VCam.appのCameraExtensionを有効にする必要があります。
+macOS 15以降では、Macの設定の「一般」→「ログイン項目と拡張機能」→「カメラ機能拡張」のiマーク→VCam.appのCameraExtensionを有効にする必要があります。
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
