@@ -8,20 +8,23 @@ By using this, you can get video conferencing apps such as Zoom and Google Meet 
 
 In the "Virtual Camera" settings of VCam, you can check the status and install or uninstall the virtual camera.
 
-<figure><img src="https://github.com/vcamapp/app/assets/8188636/709eb797-62d7-4d6c-8746-c4f9dc59188e" alt="" width="375"><figcaption></figcaption></figure>
+![image](https://github.com/vcamapp/app/assets/8188636/a39c5c68-7215-42a4-bcf4-8a2f97cfb198)
 
-After installation or uninstallation, you need to click 'Allow' in the 'Privacy & Security' settings on your Mac to apply the changes.
-
-<figure><img src="https://github.com/vcamapp/app/assets/8188636/89b38256-105c-4a40-8414-cad5b7a687f1" alt="" width="375"><figcaption></figcaption></figure>
-
-In macOS 15 or later, the CameraExtension must be enabled in macOS's Settings under General > Login Items & Extensions > Camera Extensions' info icon > VCam.app.\
-
+After installation or uninstallation, you need to enable the CameraExtension in macOS's Settings under General > Login Items & Extensions > Camera Extensions' info icon > VCam.app.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 For the current macOS, there may be times when you need to restart your Mac after installing or uninstalling plugins. If it's not working properly, please restart your Mac. And, VCam must be installed in the "Applications" folder.
 {% endhint %}
+
+<details>
+<summary>macOS 14 or earlier</summary>
+For macOS 14 or earlier, you need to click 'Allow' in the 'Privacy & Security' settings on your Mac to apply the changes.
+
+![Mac Settings](https://github.com/vcamapp/app/assets/8188636/65b3804d-7108-4e1d-9ff7-dd02ff105a38)
+
+</details>
 
 ## How to Use the Virtual Camera
 
@@ -33,14 +36,14 @@ When you select "VCam - CameraExtension", the virtual camera displays the VCam's
 
 <details>
 
-<summary>Old documentation below VCam 0.11.0</summary>
+<summary>Old documentation (for VCam 0.10.1 and below)</summary>
 
 Currently, there are two types of virtual cameras:
 
-* Virtual Camera (DAL)
-  * Installed upon the first launch.
-* New Virtual Camera (CameraExtension)
-  * Currently, only supporters can use this feature.
+- Virtual Camera (DAL)
+  - Installed upon the first launch.
+- New Virtual Camera (CameraExtension)
+  - Currently, only supporters can use this feature.
 
 The new virtual camera reduces the load on the Mac.
 
