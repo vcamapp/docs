@@ -34,6 +34,14 @@ In the camera list of the application that uses a camera, "VCam - CameraExtensio
 
 When you select "VCam - CameraExtension", the virtual camera displays the VCam's screen.
 
+## Updating the Virtual Camera
+
+When VCam is updated, you may need to update the virtual camera. In that case, click "Reinstall" in the "Virtual Camera" section of VCam's settings screen.
+
+After reinstalling, restart the VCam app.
+
+The current latest version is "`VCam - CameraExtension [3]`".
+
 <details>
 
 <summary>Old documentation (for VCam 0.10.1 and below)</summary>
