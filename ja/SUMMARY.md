@@ -6,7 +6,7 @@
 
 - [ダウンロード](https://vcamapp.com/download)
 - [初期設定](get-started/setup.md)
-- [アバターの読み込み (VCam)](get-started/avatar.md)
+- [モデルの読み込み](get-started/model.md)
 
 ## Spec
 

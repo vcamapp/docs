@@ -6,7 +6,7 @@
 
 - [Download](https://vcamapp.com/en/download)
 - [Initial Setup](get-started/setup.md)
-- [Loading Avatar (VCam)](get-started/avatar.md)
+- [Loading Model](get-started/model.md)
 
 ## Spec
 

@@ -1,4 +1,6 @@
-# Loading Avatar
+# Loading Model
+
+## VCam
 
 From the menu, select "File" to load a model. Currently, it supports [VRM files](https://vrm.dev/) available locally or models from [VRoid Hub](https://hub.vroid.com/).
 
@@ -8,10 +10,22 @@ You can also drag & drop the model file to load it.
 
 If you load a local VRM file, the app will automatically load that model when you restart it. However VRoid Hub models are not set automatically, so please reconfigure them manually.
 
-## Want to Load FBX or MMD Files?
+### Want to Load FBX or MMD Files?
 
 By using Unity, you can convert many files into the VRM format, which can be loaded by VCam.
 
 Please check the following documentation for how to do it:
 
 {% embed url="https://vrm.dev/univrm1/vrm1_tutorial/index.html" %}
+
+## VCam2D
+
+You can load Live2D Cubism models from the "File" menu or by drag and drop. Please select a folder with the following structure:
+
+```
+- Model folder
+  - <model name>.moc3
+  - Texture folder
+    - image1.png
+  - Other files (physics3.json, motions, expressions folders, etc.)
+```
