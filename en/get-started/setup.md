@@ -10,7 +10,3 @@ VCam must be installed in the "Applications" folder.
 4. Open an app that uses a virtual camera, like Zoom or OBS, and check if the avatar is displayed.
 
 If it doesn't display the avatar, please refer to the [FAQ](../other/faq.md) for troubleshooting.
-
-## Reinstalling the Plugin
-
-If the plugin installation fails or the virtual camera does not function correctly, click on "Initial Setup" in the menu and reinstall the plugin.
