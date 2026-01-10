@@ -42,6 +42,10 @@ After reinstalling, restart the VCam app.
 
 The current latest version is "`VCam - CameraExtension [3]`".
 
+## Notes When Using VCam and VCam2D Together
+
+If you uninstall either VCam or VCam2D after installing both, the virtual camera may not function properly. In such cases, please reinstall the VCam app you are using.
+
 <details>
 
 <summary>Old documentation (for VCam 0.10.1 and below)</summary>
